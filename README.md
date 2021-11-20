@@ -2,4 +2,6 @@
 - ✨微信：z13663570205
 - ✨力扣算法交流群 (703643838)， 群内有很多算法大佬，欢迎入群交流。
 - ✨Java学习交流群（774813838)，免费分享框架，数据库，项目学习笔记和资料。
-
+- ✨力扣校园之星，个人力扣主页：https://leetcode-cn.com/u/lin-shen-shi-jian-lu-k/
+- ✨AcWing校园代理，AcWing主页：https://www.acwing.com/user/myspace/index/29688/
+- ✨CSDN官方认证算法领域优秀创作者，博客地址：https://blog.csdn.net/weixin_45629285
